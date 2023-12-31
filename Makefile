@@ -1,5 +1,4 @@
-# Logan Foreman
-# REDID: 825056655
+
 # CXX Make variable for compiler
 CXX=g++
 # -std=c++11  C/C++ variant to use, e.g. C++ 2011
