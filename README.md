@@ -55,5 +55,4 @@ Run the program with two arguments: the vocabulary file and the test file.
 - The project includes test cases in the main function to demonstrate its functionality.
 - It reads words from the vocabulary file, builds the dictionary, and counts word occurrences from the test file.
 
-## Author
 
